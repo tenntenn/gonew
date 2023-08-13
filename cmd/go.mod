@@ -1,3 +1,3 @@
-module github.com/tenntenn/gonew/cmd
+module go.tenn.in/new/cmd
 
-go 1.20
+go 1.21
